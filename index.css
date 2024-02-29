@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif; /* Tipo de letra de toda la pag */
+    display: flex; /* Para que se haga al ladito */    
+}
+
+#hdIZ{
+    color:rgb(6, 6, 110);
+}
+
+#contIZ{
+    min-height: 1000px;
+    width: 50%;
+    background-color:white;
+    text-align: center;
+}
+
+#contDR{
+    min-height: 1000px;
+    width: 50%;
+    background-color:rgb(6, 6, 110);
+    text-align: center;
+}
