@@ -8,6 +8,8 @@ body{
     display: flex; /* Para que se haga al ladito */    
 }
 
+
+
 #imgAFTH{
     padding: 20px;
     width: 50%;
@@ -21,6 +23,26 @@ body{
 #Titulo{
     color: rgb(150, 128, 5);
     padding-bottom: 10px;
+}
+
+#ExpLab h2{
+    padding-top: 10px;
+}
+
+
+h2 .links{
+    color: rgb(150, 128, 5);
+    text-decoration: none;
+}
+
+.FechIZ{/* Fechas */
+    text-align: right;
+    padding: 0px 100px ; /* "Y", "X" */
+}
+
+.Dorado{
+    color: rgb(150, 128, 5);
+    
 }
 
 #contIZ{
