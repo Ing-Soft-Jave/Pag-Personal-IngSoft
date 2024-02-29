@@ -8,8 +8,19 @@ body{
     display: flex; /* Para que se haga al ladito */    
 }
 
+#imgAFTH{
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+}
+
 #hdIZ{
     color:rgb(6, 6, 110);
+}
+
+#Titulo{
+    color: rgb(150, 128, 5);
+    padding-bottom: 10px;
 }
 
 #contIZ{
