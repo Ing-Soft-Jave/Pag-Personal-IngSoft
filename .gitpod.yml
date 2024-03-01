@@ -2,7 +2,7 @@
 # Tasks:
 tasks:
   - name: Iniciar servidor web
-    init: python -m http:server 4000
+    init: python -m http.server 4000
 
 ports:
   - port: 4000
