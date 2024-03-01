@@ -58,3 +58,12 @@ h2 .links{
     background-color:rgb(6, 6, 110);
     text-align: center;
 }
+
+#PF{
+    padding-top: 50px;
+}
+
+p{
+    padding: 20px;
+    color: white;
+}
