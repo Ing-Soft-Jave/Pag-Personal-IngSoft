@@ -81,3 +81,15 @@ p{
 #EduFormal{
     color: white;
 }
+/*Cambios*/
+
+#Contacto{
+    margin-top: 20px;
+    margin-left: 10%;
+    position: absolute;
+}
+#Idiomas{
+    margin-top: 20px;
+    margin-left: 35%;
+    position: absolute;
+}
