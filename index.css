@@ -42,7 +42,6 @@ h2 .links{
 
 .Dorado{
     color: rgb(150, 128, 5);
-    
 }
 
 #contIZ{
@@ -82,7 +81,22 @@ p{
     color: white;
 }
 
+
 #Habilidades{
     color: white;
     justify-content: center;
+}
+/*Cambios*/
+
+#Contacto{
+    margin-top: 20px;
+    margin-left: 10%;
+    color: white;
+    position: absolute;
+}
+#Idiomas{
+    margin-top: 20px;
+    margin-left: 35%;
+    color: white;
+    position: absolute;
 }
