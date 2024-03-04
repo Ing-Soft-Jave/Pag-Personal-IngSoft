@@ -36,6 +36,7 @@ h2 .links{
 }
 
 .FechIZ{/* Fechas */
+    color:rgb(6, 6, 110);
     text-align: right;
     padding: 0px 100px ; /* "Y", "X" */
 }
@@ -88,15 +89,13 @@ p{
 }
 /*Cambios*/
 
-#Contacto{
-    margin-top: 20px;
-    margin-left: 10%;
+#ContactoIdiomas {
+    justify-content: center;
+    display: flex;
     color: white;
-    position: absolute;
+    padding: 10px;
 }
-#Idiomas{
-    margin-top: 20px;
-    margin-left: 35%;
-    color: white;
-    position: absolute;
+#ContactoIdiomas li {
+    padding: 0px 20px;
+    /* display:block; */
 }
