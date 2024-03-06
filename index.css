@@ -36,13 +36,13 @@ h2 .links{
 }
 
 .FechIZ{/* Fechas */
+    color:rgb(6, 6, 110);
     text-align: right;
     padding: 0px 100px ; /* "Y", "X" */
 }
 
 .Dorado{
     color: rgb(150, 128, 5);
-    
 }
 
 #contIZ{
@@ -82,7 +82,20 @@ p{
     color: white;
 }
 
+
 #Habilidades{
     color: white;
     justify-content: center;
+}
+/*Cambios*/
+
+#ContactoIdiomas {
+    justify-content: center;
+    display: flex;
+    color: white;
+    padding: 10px;
+}
+#ContactoIdiomas li {
+    padding: 0px 20px;
+    /* display:block; */
 }
