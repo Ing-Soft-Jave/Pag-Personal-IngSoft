@@ -89,7 +89,7 @@ p{
 }
 /*Cambios*/
 
-#ContactoIdiomas {
+#ContactoIdiomas { 
     justify-content: center;
     display: flex;
     color: white;
@@ -97,5 +97,4 @@ p{
 }
 #ContactoIdiomas li {
     padding: 0px 20px;
-    /* display:block; */
 }
