@@ -86,7 +86,6 @@ p{
     color: white;
     justify-content: center;
 }
-#Contacto{
-    color: white;
-    justify-content: center;
+#Contacto, #Contacto ul, #Contacto li {
+    color: white; 
 }
