@@ -89,3 +89,18 @@ p{
 #Contacto, #Contacto ul, #Contacto li {
     color: white; 
 }
+
+#contInfo {
+    display: flex;
+    justify-content: space-around; 
+    align-items: flex-start; 
+    color: white; 
+}
+
+#Contacto, #Idiomas {
+    flex-basis: 45%; 
+}
+
+.emailPequeno {
+    font-size: 10px; 
+}
