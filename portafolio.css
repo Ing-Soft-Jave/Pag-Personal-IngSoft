@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif; /* Tipo de letra de toda la pag */
+    background-color:rgb(6, 6, 110);
+    
+}
+#Titulo{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+#IZ{
+    width: 50%;
+    color: rgb(150, 128, 5);
+}
+#imgESMB{
+    height:40%;
+    width: 40%;
+}
+#DR{
+    width: 50%;
+    color: rgb(150, 128, 5);
+}
+#imgESMB{
+    height:40%;
+    width: 40%;
+}
+#Portafolio{
+    text-align: center;
+    display: flex;
+   
+}
