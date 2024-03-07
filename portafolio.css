@@ -12,12 +12,14 @@ body{
     text-align: center;
     color: white;
     font-size: large;
+    padding:2%;
 }
 #IZ{
     width: 50%;
     color: rgb(150, 128, 5);
 }
 #imgESMB{
+    margin:7%;
     height:40%;
     width: 40%;
 }
